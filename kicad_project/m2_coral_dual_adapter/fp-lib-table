@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nvme_ae_to_m")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr ""))
+  (lib (name "user-lib-fp")(type "KiCad")(uri "${KIPRJMOD}/user-lib-fp.pretty")(options "")(descr ""))
+)

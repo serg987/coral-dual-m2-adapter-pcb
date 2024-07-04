@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nvme")(type "Legacy")(uri "${KIPRJMOD}/nvme.lib")(options "")(descr ""))
+  (lib (name "nvme_ae_to_m-rescue")(type "Legacy")(uri "${KIPRJMOD}/nvme_ae_to_m-rescue.lib")(options "")(descr ""))
+  (lib (name "user_lib")(type "KiCad")(uri "${KIPRJMOD}/user_lib.kicad_sym")(options "")(descr ""))
+)
